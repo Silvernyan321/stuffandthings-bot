@@ -1,0 +1,2 @@
+# stuffandthings-bot
+A bot
